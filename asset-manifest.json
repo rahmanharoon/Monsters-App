@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Monsters-App/static/css/main.9f5d8830.chunk.css",
+    "main.js": "/Monsters-App/static/js/main.87b02a06.chunk.js",
+    "main.js.map": "/Monsters-App/static/js/main.87b02a06.chunk.js.map",
+    "runtime-main.js": "/Monsters-App/static/js/runtime-main.e5d2e900.js",
+    "runtime-main.js.map": "/Monsters-App/static/js/runtime-main.e5d2e900.js.map",
+    "static/js/2.aea97c8d.chunk.js": "/Monsters-App/static/js/2.aea97c8d.chunk.js",
+    "static/js/2.aea97c8d.chunk.js.map": "/Monsters-App/static/js/2.aea97c8d.chunk.js.map",
+    "index.html": "/Monsters-App/index.html",
+    "static/css/main.9f5d8830.chunk.css.map": "/Monsters-App/static/css/main.9f5d8830.chunk.css.map",
+    "static/js/2.aea97c8d.chunk.js.LICENSE.txt": "/Monsters-App/static/js/2.aea97c8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5d2e900.js",
+    "static/js/2.aea97c8d.chunk.js",
+    "static/css/main.9f5d8830.chunk.css",
+    "static/js/main.87b02a06.chunk.js"
+  ]
+}
